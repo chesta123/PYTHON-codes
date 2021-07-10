@@ -8,5 +8,5 @@ class Employee:
     def email(self):
         pass
 chesta_gupta = Employee("chesta" ,"gupta")
-harsh_ji  = Employee("harsh","ji")
+harry_ji  = Employee("harry","ji")
 print(chesta_gupta.explain())
