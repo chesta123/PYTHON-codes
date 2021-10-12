@@ -49,7 +49,7 @@
 #     return wish
 # name1= "chesta"
 # print(greet(name1))
-
+# this function greets with good morning
 
 
 def modified_str(string,word):
